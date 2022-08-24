@@ -1,0 +1,13 @@
+{
+    "name": "pulumi-s3-static-web-site",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^14"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^5.0.0",
+        "@pulumi/aws-static-website": "^0.1.1",
+        "@pulumi/awsx": "^0.40.0",
+        "@pulumi/pulumi": "^3.0.0"
+    }
+}
